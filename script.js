@@ -6,6 +6,7 @@ button.onclick = () => {
 }
 let meetAge
 let belts
+let test
 
 handleSubmit = () => {
   if (age === '34') {
